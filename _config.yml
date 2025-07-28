@@ -1,0 +1,7 @@
+title: Mind Dump
+markdown: kramdown
+theme: minima
+
+defaults:
+    - values:
+          layout: default
