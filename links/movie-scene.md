@@ -1,3 +1,5 @@
 - [Saloon](https://youtu.be/5e7A-kEQxDU)
 - [The Coin Toss](https://youtu.be/ZY0DG8rUnCA)
 - [Consciousness does not exist](https://youtu.be/S94ETUiMZwQ)
+- [Sicilian 1](https://youtu.be/4TVG_ZnLh08)
+- [Sicilian 2](https://youtu.be/Wax15NklZh4)
