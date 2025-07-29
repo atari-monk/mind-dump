@@ -1,0 +1,3 @@
+- [Dev Blog](https://atari-monk.github.io/dev-blog/)
+- [Mind Dump](https://atari-monk.github.io/mind-dump/)
+- [Game Hub](https://atari-monk.github.io/pages/game-hub/index.html)

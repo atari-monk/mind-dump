@@ -1,8 +1,13 @@
 - Blog
     - [About](content\blog\about)
 - Links
+    - [App](content\links\app)
+    - [Atari Monk](content\links\atari-monk)
     - [Blender Art](content\links\blender-art)
     - [Diy](content\links\diy)
+    - [Software](content\links\software)
+    - Ai
+        - [Llm Chat](content\links\ai\llm-chat)
     - Entertainment
         - [Joke](content\links\entertainment\joke)
         - [Movie Scene](content\links\entertainment\movie-scene)
