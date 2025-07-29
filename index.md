@@ -1,10 +1,10 @@
-
-## Root
-- [Readme](readme)
-
-## Links
-- [Blender Art](links\blender-art)
-- [Diy](links\diy)
-- [Joke](links\joke)
-- [Movie Scene](links\movie-scene)
-- [Reflection](links\reflection)
+- Blog
+    - [Readme](content\blog\readme)
+- Links
+    - [Blender Art](content\links\blender-art)
+    - [Diy](content\links\diy)
+    - Entertainment
+        - [Joke](content\links\entertainment\joke)
+        - [Movie Scene](content\links\entertainment\movie-scene)
+    - Other
+        - [Reflection](content\links\other\reflection)
