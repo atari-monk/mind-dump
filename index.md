@@ -1,5 +1,5 @@
 - Blog
-    - [Readme](content\blog\readme)
+    - [About](content\blog\about)
 - Links
     - [Blender Art](content\links\blender-art)
     - [Diy](content\links\diy)
