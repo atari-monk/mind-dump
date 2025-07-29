@@ -4,6 +4,7 @@
     - [App](content\links\app)
     - [Atari Monk](content\links\atari-monk)
     - [Blender Art](content\links\blender-art)
+    - [Dev Tool](content\links\dev-tool)
     - [Diy](content\links\diy)
     - [Software](content\links\software)
     - Ai
