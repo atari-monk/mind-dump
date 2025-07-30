@@ -14,3 +14,6 @@
         - [Movie Scene](content\links\entertainment\movie-scene)
     - Other
         - [Reflection](content\links\other\reflection)
+- Thoughts
+    - [Agent](content\thoughts\agent)
+    - [Word Play](content\thoughts\word-play)
