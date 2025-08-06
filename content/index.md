@@ -1,5 +1,10 @@
 # Index
 
-- [Blog](blog/index.md)
+## Directories
+
 - [Links](links/index.md)
 - [Thoughts](thoughts/index.md)
+
+## Files
+
+- [About](about.md)

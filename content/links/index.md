@@ -1,11 +1,5 @@
 # Links
 
-## Directories
-
-- [Ai](ai/index.md)
-- [Entertainment](entertainment/index.md)
-- [Other](other/index.md)
-
 ## Files
 
 - [App](app.md)
@@ -13,4 +7,9 @@
 - [Blender Art](blender-art.md)
 - [Dev Tool](dev-tool.md)
 - [Diy](diy.md)
+- [Games](games.md)
+- [Joke](joke.md)
+- [Llm Chat](llm-chat.md)
+- [Movie Scene](movie-scene.md)
+- [Reflection](reflection.md)
 - [Software](software.md)
