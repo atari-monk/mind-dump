@@ -1,0 +1,4 @@
+- [DeepSeek](https://chat.deepseek.com)
+- [ChatGPT](https://chatgpt.com)
+- [Google Gemini](https://gemini.google.com/app)
+- [PLLuM Chat](https://pllum.clarin-pl.eu/pllum_8x7b)

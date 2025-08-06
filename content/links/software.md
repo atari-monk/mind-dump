@@ -1,0 +1,3 @@
+- [Python Arcade Library](https://api.arcade.academy/en/stable/)
+- [Arcade Examples](https://github.com/pythonarcade/arcade/tree/development/arcade/examples)
+- [React](https://react.dev/)
